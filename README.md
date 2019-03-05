@@ -1,3 +1,3 @@
-Try git!
+(E) Try git!
 ========
-zmiania
+zmiana
